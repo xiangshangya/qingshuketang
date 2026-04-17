@@ -7,6 +7,7 @@
 // @run-at       document-end
 // @grant        none
 // @license      MIT
+// @homepageURL  https://github.com/xiangshangya/qingshuketang
 // ==/UserScript==
 
 ;(function () {
