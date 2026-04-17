@@ -8,6 +8,11 @@
 
 > **注意**：需要开启开发者模式，并允许用户脚本。
 
+## 尝试点击安装？
+> 需要先安装 Tampermonkey 插件
+
+[点击这里安装脚本](https://raw.githubusercontent.com/xiangshangya/qingshuketang/main/script.js)
+
 ---
 
 ## 更新日志
